@@ -1,5 +1,5 @@
 # Bwhiz-Zindi_winning_solution_Excellent_Store_Challenge_by_DSN
-**Disclaimer:** Noobie contents imminent.
+**Warning:** Noobie contents imminent.:grin:
 
 This is my **first hackathon** and it is a challenge hosted by Data Science Nigeria (DSN) on [Zindi](https://zindi.africa/hackathons/dsn-pre-bootcamp-hackathon-the-excellent-store-challenge) as a [pre-bootcamp learning competition](https://www.datasciencenigeria.org/2020-75-days-of-ml/).
 
